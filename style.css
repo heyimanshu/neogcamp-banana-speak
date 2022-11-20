@@ -13,10 +13,11 @@ body {
 
 .header {
     background-color: #F2C94C;
-    ;
     padding: 2rem 1rem;
     text-align: center;
     color: Black;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 
@@ -39,4 +40,5 @@ body {
     text-align: center;
     color: Black;
     border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
 }
